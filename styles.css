@@ -39,3 +39,8 @@ body
     width: 100%;
     transform: translate(-50%, -2%);
 }
+
+img
+{
+    height: 400px;
+}
